@@ -180,8 +180,8 @@ Indent every line of a code block by at least 4 spaces or 1 tab.
 
 ### 页内锚标记
 
-* [点我跳转到顶部](#11)   // 利用 `#`,`##` 生成 `id` 锚标签  
-* [另一种锚标记](#top) // 利用 `<a name="top"></a>
+* [点我跳转到顶部](#11全局规范)   // 利用 `#`,`##` 生成 `id` 锚标签  
+* [另一种锚标记](#top) // 利用 `<a name="top"></a>`
 
 ---
 
