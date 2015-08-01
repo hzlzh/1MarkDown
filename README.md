@@ -42,6 +42,11 @@
 _emphasize_   __strong__
 ```
 
+使用`~~`给文字添加删除线
+```
+~~strikethrough~~
+```
+
 ### 代码块规范
 
 * 行内代码使用`1对波浪号` 如： \`hello world!\`
